@@ -1,0 +1,171 @@
+@media screen and (min-width: 768px) and (max-width: 1254px) {
+    #treatment-title h2 {
+        font-size: 58px !important;
+    }
+
+    .disease-img {
+        width: 110px !important;
+    }
+
+    .disease h4 {
+        font-size: 22px !important;
+    }
+
+    #patient {
+        height: 425px;
+    }
+
+    #scribbble {
+        top: -105px !important;
+    }
+
+    #scribbble img {
+        width: 300px !important;
+    }
+
+    #patient-img {
+        height: 63% !important;
+        top: -160px !important;
+    }
+
+    #tag {
+        width: 50% !important;
+    }
+
+    #tag p {
+        font-size: 15px;
+        padding: 10px 15px;
+    }
+
+    #patient-text h3 {
+        font-size: 55px !important;
+    }
+    
+    #patient-text-pera {
+        width: 55% !important;
+        font-size: 15px;
+    }
+}
+
+@media screen and (min-width: 501px) and (max-width: 767px) {
+    #treatment-title h2 {
+        font-size: 40px !important;
+        margin-bottom: 15px;
+    }
+
+    #thunder {
+        margin: 0 0 18px -10px !important;
+    }
+
+    #treatment-details {
+        flex-direction: column;
+        align-items: center;
+        gap: 30px;
+        margin-top: 50px !important;
+        padding-bottom: 100px !important;
+    }
+
+    #scribbble {
+        top: -70px !important;
+    }
+
+    #scribbble img {
+        width: 200px !important;
+    }
+
+    #patient-img {
+        height: 40% !important;
+        top: -108px !important;
+    }
+
+    #tag {
+        width: 46% !important;
+    }
+
+    #tag p {
+        font-size: 5px !important;
+        padding: 5px 15px !important;
+    }
+
+    #patient-text h3 {
+        font-size: 18px !important;
+        margin-top: 5px !important;
+        margin-bottom: 2px !important;
+    }
+    
+    #patient-text-pera {
+        width: 55% !important;
+        font-size: 8px;
+    }
+
+    .arrow {
+        width: 20px !important;
+        margin: 2px 0 -8px -4px !important;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    #treatment-title h2 {
+        font-size: 28px !important;
+        margin-bottom: 15px;
+    }
+
+    #thunder {
+        margin: 0 0 10px -5px !important;
+        width: 20px !important;
+    }
+
+    #treatment-details {
+        flex-direction: column;
+        align-items: center;
+        gap: 30px;
+        margin-top: 35px !important;
+        padding-bottom: 65px !important;
+    }
+
+    .disease-img {
+        width: 110px !important;
+    }
+
+    .disease h4 {
+        font-size: 22px !important;
+    }
+
+    #scribbble {
+        top: -43px !important;
+    }
+
+    #scribbble img {
+        width: 125px !important;
+    }
+
+    #patient-img {
+        height: 25% !important;
+        top: -68px !important;
+    }
+
+    #tag {
+        width: 46% !important;
+    }
+
+    #tag p {
+        font-size: 5px !important;
+        padding: 5px 15px !important;
+    }
+
+    #patient-text h3 {
+        font-size: 18px !important;
+        margin-top: 5px !important;
+        margin-bottom: 2px !important;
+    }
+    
+    #patient-text-pera {
+        width: 55% !important;
+        font-size: 8px;
+    }
+
+    .arrow {
+        width: 20px !important;
+        margin: 2px 0 -8px -4px !important;
+    }
+}

@@ -1,0 +1,75 @@
+@import "responsive/responsive.header.css";
+
+#header-area {
+    width: 100%;
+}
+
+#title-bar {
+    display: flex;
+    height: 45px;
+    justify-content: center;
+    align-items: center;
+}
+
+#menu {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 25px;
+    margin-bottom: 10px;
+}
+
+#logo {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 15px;
+}
+
+#logo img {
+    width: 32px;
+    height: 40px;
+}
+
+#logo h4 {
+    font-size: 28px;
+}
+
+.navbar ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 25px;
+}
+
+.navbar ul li {
+    list-style: none;
+}
+
+#header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 25px;
+}
+
+.header-left h1 {
+    font-family: 'GT Super Display';
+    font-weight: 700;
+    font-size: 96px;
+    margin-bottom: 20px;
+}
+
+.header-btn-area {
+    margin-top: 25px;
+}
+
+.header-btn-area button {
+    margin-right: 20px;
+}
+
+.header-right img {
+    width: 700px;
+}
