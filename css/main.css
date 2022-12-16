@@ -61,7 +61,7 @@
 
 #patient-img {
     width: 90%;
-    height: 112%;
+    height: 109%;
     top: -268px;
     background: url("../img/treatment.png") no-repeat;
     background-size: cover;
@@ -72,7 +72,7 @@
 
 #patient-text {
     width: 99%;
-    height: 96%;
+    height: 98%;
     margin: 0 auto;
     border: 1px solid #C7D3C4;
     border-radius: 20px;
